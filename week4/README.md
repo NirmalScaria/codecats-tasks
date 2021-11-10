@@ -2,4 +2,4 @@
 
 # Tasks
 
-- [0] Reverse the given input array 
+- [-] Reverse the given input array 
