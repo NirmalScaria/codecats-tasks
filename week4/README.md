@@ -8,7 +8,7 @@
     
         Output: [5,8,2,1]
 
-- [ ] 2. Count Frequency of every element of the array
+- [x] 2. Count Frequency of every element of the array
 
         Input: 
         arr[] = {1,2,3,2,4,1,4,1,4}
@@ -19,7 +19,7 @@
         3 - 1 times
         4 - 3 times
 
-- [ ] 3. Rotate the array by “k” steps in right direction
+- [x] 3. Rotate the array by “k” steps in right direction
 
         Input: 
         arr[] = {1, 3, 4, 5, 7}, k = 3

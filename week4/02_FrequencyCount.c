@@ -30,4 +30,5 @@ int main(){
         }
         printf("Item %d with frequency %d\n",uniqueItems[i],itemCount);
     }
+    return(0);
 }
