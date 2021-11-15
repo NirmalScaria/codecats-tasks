@@ -29,7 +29,7 @@
         arr[] = {4, 5, 7, 1, 3}
         Arr[] = {4, 2, 5, 6, 7, 3}
 
-- [ ] 4. Two sum
+- [x] 4. Two sum
 
     Given an array of integer numbers and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
 GIVEN ARRAY IS SORTED ARRAY.
@@ -50,7 +50,7 @@ GIVEN ARRAY IS SORTED ARRAY.
         nums = [3,3], target = 6
         Output: 
         [0,1]
-- [ ] 5. SET 0,1,2 in an array
+- [x] 5. SET 0,1,2 in an array
 
     You are given the array consisting of 0,1,2. You have to modify the array by setting all the 0’s in starting and all the 1’s in middle and all the 2’s at the end.
 
