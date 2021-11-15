@@ -58,7 +58,7 @@ GIVEN ARRAY IS SORTED ARRAY.
         (Input Array consists of only 0,1,2)
         Output: [0,0,0,1,1,1,1,2,2]
 
-- [ ] 6. Search Insert Position
+- [x] 6. Search Insert Position
 
     Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
