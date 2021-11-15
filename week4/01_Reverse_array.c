@@ -21,4 +21,5 @@ int main(){
     for(i=0; i<count; i++){
         printf("%d\n", arr[i]);
     }
+    return(0);
 }

@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [ ] 1. Reverse the given input array 
+- [x] 1. Reverse the given input array 
 
         Input: array = [1,2,8,5]
     
