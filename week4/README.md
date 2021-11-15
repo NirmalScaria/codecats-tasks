@@ -73,7 +73,7 @@ GIVEN ARRAY IS SORTED ARRAY.
         Explanation: Since 5 is found at index 2 as arr[2] = 5, the output is 2.
         As, 2 is not present but its possible position is index = 1 output is 1.
 
-- [ ] 7. Odd Grasshopper
+- [x] 7. Odd Grasshopper
 
     The grasshopper is located on the numeric axis at the point with coordinates x0. 
 Having nothing else to do he starts jumping between integer points on the axis. Making a jump from a point with coordinate x with a distance d to the left moves the grasshopper to a point with a coordinate x-d, while jumping to the right moves him to a point with a coordinate x+d.
